@@ -2,24 +2,32 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Random musings</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
+        <title>Daniel Schobel</title>
+        <meta name="description" content="Daniel Schobel's blog">
         <meta name="author" content="Daniel Schobel">
         <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
         <style>
-            body {
-                padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-            }
+            body { padding-top: 80px; /* 60px to make the container go all the way to the bottom of the topbar */ }
         </style>
     </head>
     <body>
-        <div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="navbar-inner">
-                <div class="container">
-                    <a class="brand" href="#">Daniel Schobel's blog</a>
-                </div>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+          <div class="navbar-inner">
+            <div class="container">
+              <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <div class="nav-collapse collapse">
+                <ul class="nav">
+                  <li class="active"><a href="/">Daniel Schobel</a></li>
+                  <li><a href="/About.html">About</a></li>
+                </ul>
+              </div><!--/.nav-collapse -->
             </div>
+          </div>
         </div>
 
         <div class="container-fluid">
@@ -27,12 +35,12 @@
                 <div class="span2">
                     <div class="well sidebar-nav">
                         <ul class="nav nav-list">
-                            <!--<li class="nav-header">Sidebar</li>-->
-                            <li><a href="/">Posts</a></li>
-                            <li><a href="#">Code</a></li>
+                            <li> <a href="/" >Posts</a> </li>
+                            <li class="nav-header">External</li>
                             <li> <a href="https://github.com/dschobel" target="_blank">me @ Github</a> </li>
                             <li> <a href="https://twitter.com/dschobel" target="_blank">me @ Twitter</a> </li>
                         </ul>
+
                     </div><!--/.well -->
                 </div><!--/span2-->
                 <div class="span10"> {{ content }} </div>

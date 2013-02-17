@@ -3,7 +3,7 @@ title: Welcome to Hacker School
 layout: post
 ---
 
-### In the beginning...
+####In the beginning...
 I readily admit I was dubious about Hacker School for a long time. I loved the
 idea of it immediately but wasn't sure if the program would be as useful for
 people like me who had been working as devs for a long time (and I had almost eight
@@ -24,7 +24,7 @@ two and a half weeks later I was off to NYC.
 
 
 
-### An experiment emerges
+*An experiment emerges*
 It may be obvious that Hacker School is an experiment, but when you
 walk into a room full of people you've never met before is when the idea becomes
 real. Everyone is buzzing with excitement but nobody seems to have any idea 
