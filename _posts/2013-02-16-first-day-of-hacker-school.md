@@ -8,7 +8,7 @@ layout: post
 <pre>
 </pre>
 ####A grand experiment
-When I walk into [Hacker School](http://www.hackerschool.com) on the first day
+When I walk into <a href="http://www.hackerschool.com" target="_blank">Hacker School</a> on the first day
 the room is already buzzing with excitement. Nobody seems to have any idea what
 the next three months are going to bring but they're already comparing notes on
 potential projects, definitely a good sign.
@@ -17,7 +17,7 @@ We meet the founders and they explain the theory behind the school. In a
 nutshell, it is that people learn best when they are free to pursue their
 interests with minimal structure and with no fear of failure
 (<small>reminiscent of <a
-href="http://en.wikipedia.org/wiki/Unschooling">unschooling</a></small>). The
+href="http://en.wikipedia.org/wiki/Unschooling" target="_blank">unschooling</a></small>). The
 Hacker School team places a lot of emphasis on cultivating such an environment,
 consequently there are explicit rules against the sort of nit-picking comments
 for which alpha-nerds are notorious. 
@@ -28,9 +28,10 @@ entire purpose of Hacker School is to get everyone as far along that path as
 possible in our limited time. They emphasize this in opposition to spending our
 time building tech demos in hopes of impressing specific potential employers.
 In fact, we're told the longer we hold off thinking about jobs at all the more
-we'll get out of our time here.  The message is simple: work on whatever excites
-you. If you want to spend your days hacking with
-[Agda](http://en.wikipedia.org/wiki/Agda_(programming_language), go for it.
+we'll get out of our time here.  The message is simple: work on whatever
+excites you. If you want to spend your days hacking with <a
+href="http://en.wikipedia.org/wiki/Agda_(programming_language)" target="_blank">Agda</a> , go
+for it.
 
 This is a remarkable piece of advice coming from a company (remember, Hacker
 School is itself a startup) which makes money by placing students at companies.
